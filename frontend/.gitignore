@@ -1,0 +1,15 @@
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Environments
+.env
+
+# Dist output
+frontend/dist/
+
+# VS Code
+.vscode/
+
+# Angular cache
+.angular/
